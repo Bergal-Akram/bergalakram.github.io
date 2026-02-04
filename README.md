@@ -1,4 +1,4 @@
-# Cpmputer Science Student
+# Computer Science Student
 
 #### Technical Skills: Python, Scikit-learn, SQL, Prolog, MATLAB, Java
 
