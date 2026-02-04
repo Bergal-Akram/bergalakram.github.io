@@ -1,12 +1,10 @@
-# bergalakram.github.io
-# Data Scientist
+# Cpmputer Science Student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Scikit-learn, SQL, Prolog, MATLAB, Java
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education							       		
+- M.S., AI & Data Science	| The University of Oeb at Algeria (_Septembre 2026_-_now_)	 			        		
+- B.S., Computer Science(Computer System) | The University of Oeb at Algeria (__Septembre 2022_-_Juin 2025_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
