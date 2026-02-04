@@ -1,5 +1,31 @@
-# title: Bergal Akram
+# _config.yml for Bergal Akram Portfolio
+
+title: "Bergal Akram"
+description: "Personal portfolio of Akram Bergal – AI, Data Science & Web Projects"
+# Uncomment the next line if you have a logo image in /assets/img.png
 # logo: /assets/img.png
-# description: text below image
-show_downloads: false
+
+# Theme settings
 theme: jekyll-theme-minimal
+show_downloads: false
+
+# Optional settings
+url: ""          # Leave empty for GitHub Pages
+baseurl: ""      # Leave empty unless using a subpath
+paginate: 5      # Number of posts to show per page if you add a blog
+
+# Author info (useful for meta tags or custom templates)
+author:
+  name: "Bergal Akram"
+  email: "your.email@example.com"
+  github: "https://github.com/bergalakram"
+  linkedin: "https://linkedin.com/in/yourprofile"
+
+# Navigation links (if using a navigation bar in a theme)
+nav_links:
+  - name: "About"
+    link: "/about"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Contact"
+    link: "/contact"
