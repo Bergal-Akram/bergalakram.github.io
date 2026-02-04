@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Scikit-learn, SQL, Prolog, MATLAB, Java
 
 ## Education							       		
-- M.S., AI & Data Science	| The University of Oeb at Algeria (_Septembre 2026_-_now_)	 			        		
+- M.S., AI & Data Science	| The University of Oeb at Algeria (_Septembre 2025_-_now_)	 			        		
 - B.S., Computer Science(Computer System) | The University of Oeb at Algeria (__Septembre 2022_-_Juin 2025_)
 
 ## Work Experience
